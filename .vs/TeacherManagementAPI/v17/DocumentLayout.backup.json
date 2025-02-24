@@ -1,0 +1,424 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\trung\\Desktop\\Doantotnghiep\\TeacherManagementAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83CD417A-0597-4F94-A69F-E121C7B32C7E}|TeacherManagementAPI\\TeacherManagementAPI.csproj|c:\\users\\trung\\desktop\\doantotnghiep\\teachermanagementapi\\teachermanagementapi\\controllers\\schedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83CD417A-0597-4F94-A69F-E121C7B32C7E}|TeacherManagementAPI\\TeacherManagementAPI.csproj|solutionrelative:teachermanagementapi\\controllers\\schedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83CD417A-0597-4F94-A69F-E121C7B32C7E}|TeacherManagementAPI\\TeacherManagementAPI.csproj|c:\\users\\trung\\desktop\\doantotnghiep\\teachermanagementapi\\teachermanagementapi\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83CD417A-0597-4F94-A69F-E121C7B32C7E}|TeacherManagementAPI\\TeacherManagementAPI.csproj|solutionrelative:teachermanagementapi\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83CD417A-0597-4F94-A69F-E121C7B32C7E}|TeacherManagementAPI\\TeacherManagementAPI.csproj|c:\\users\\trung\\desktop\\doantotnghiep\\teachermanagementapi\\teachermanagementapi\\data\\applicationdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83CD417A-0597-4F94-A69F-E121C7B32C7E}|TeacherManagementAPI\\TeacherManagementAPI.csproj|solutionrelative:teachermanagementapi\\data\\applicationdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83CD417A-0597-4F94-A69F-E121C7B32C7E}|TeacherManagementAPI\\TeacherManagementAPI.csproj|c:\\users\\trung\\desktop\\doantotnghiep\\teachermanagementapi\\teachermanagementapi\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83CD417A-0597-4F94-A69F-E121C7B32C7E}|TeacherManagementAPI\\TeacherManagementAPI.csproj|solutionrelative:teachermanagementapi\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83CD417A-0597-4F94-A69F-E121C7B32C7E}|TeacherManagementAPI\\TeacherManagementAPI.csproj|c:\\users\\trung\\desktop\\doantotnghiep\\teachermanagementapi\\teachermanagementapi\\models\\scheduledata .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83CD417A-0597-4F94-A69F-E121C7B32C7E}|TeacherManagementAPI\\TeacherManagementAPI.csproj|solutionrelative:teachermanagementapi\\models\\scheduledata .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83CD417A-0597-4F94-A69F-E121C7B32C7E}|TeacherManagementAPI\\TeacherManagementAPI.csproj|c:\\users\\trung\\desktop\\doantotnghiep\\teachermanagementapi\\teachermanagementapi\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83CD417A-0597-4F94-A69F-E121C7B32C7E}|TeacherManagementAPI\\TeacherManagementAPI.csproj|solutionrelative:teachermanagementapi\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83CD417A-0597-4F94-A69F-E121C7B32C7E}|TeacherManagementAPI\\TeacherManagementAPI.csproj|c:\\users\\trung\\desktop\\doantotnghiep\\teachermanagementapi\\teachermanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{83CD417A-0597-4F94-A69F-E121C7B32C7E}|TeacherManagementAPI\\TeacherManagementAPI.csproj|solutionrelative:teachermanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83CD417A-0597-4F94-A69F-E121C7B32C7E}|TeacherManagementAPI\\TeacherManagementAPI.csproj|c:\\users\\trung\\desktop\\doantotnghiep\\teachermanagementapi\\teachermanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83CD417A-0597-4F94-A69F-E121C7B32C7E}|TeacherManagementAPI\\TeacherManagementAPI.csproj|solutionrelative:teachermanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83CD417A-0597-4F94-A69F-E121C7B32C7E}|TeacherManagementAPI\\TeacherManagementAPI.csproj|c:\\users\\trung\\desktop\\doantotnghiep\\teachermanagementapi\\teachermanagementapi\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83CD417A-0597-4F94-A69F-E121C7B32C7E}|TeacherManagementAPI\\TeacherManagementAPI.csproj|solutionrelative:teachermanagementapi\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83CD417A-0597-4F94-A69F-E121C7B32C7E}|TeacherManagementAPI\\TeacherManagementAPI.csproj|c:\\users\\trung\\desktop\\doantotnghiep\\teachermanagementapi\\teachermanagementapi\\controllers\\teachingassignmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83CD417A-0597-4F94-A69F-E121C7B32C7E}|TeacherManagementAPI\\TeacherManagementAPI.csproj|solutionrelative:teachermanagementapi\\controllers\\teachingassignmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83CD417A-0597-4F94-A69F-E121C7B32C7E}|TeacherManagementAPI\\TeacherManagementAPI.csproj|c:\\users\\trung\\desktop\\doantotnghiep\\teachermanagementapi\\teachermanagementapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83CD417A-0597-4F94-A69F-E121C7B32C7E}|TeacherManagementAPI\\TeacherManagementAPI.csproj|solutionrelative:teachermanagementapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83CD417A-0597-4F94-A69F-E121C7B32C7E}|TeacherManagementAPI\\TeacherManagementAPI.csproj|c:\\users\\trung\\desktop\\doantotnghiep\\teachermanagementapi\\teachermanagementapi\\models\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83CD417A-0597-4F94-A69F-E121C7B32C7E}|TeacherManagementAPI\\TeacherManagementAPI.csproj|solutionrelative:teachermanagementapi\\models\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83CD417A-0597-4F94-A69F-E121C7B32C7E}|TeacherManagementAPI\\TeacherManagementAPI.csproj|c:\\users\\trung\\desktop\\doantotnghiep\\teachermanagementapi\\teachermanagementapi\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83CD417A-0597-4F94-A69F-E121C7B32C7E}|TeacherManagementAPI\\TeacherManagementAPI.csproj|solutionrelative:teachermanagementapi\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83CD417A-0597-4F94-A69F-E121C7B32C7E}|TeacherManagementAPI\\TeacherManagementAPI.csproj|c:\\users\\trung\\desktop\\doantotnghiep\\teachermanagementapi\\teachermanagementapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83CD417A-0597-4F94-A69F-E121C7B32C7E}|TeacherManagementAPI\\TeacherManagementAPI.csproj|solutionrelative:teachermanagementapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83CD417A-0597-4F94-A69F-E121C7B32C7E}|TeacherManagementAPI\\TeacherManagementAPI.csproj|c:\\users\\trung\\desktop\\doantotnghiep\\teachermanagementapi\\teachermanagementapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83CD417A-0597-4F94-A69F-E121C7B32C7E}|TeacherManagementAPI\\TeacherManagementAPI.csproj|solutionrelative:teachermanagementapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83CD417A-0597-4F94-A69F-E121C7B32C7E}|TeacherManagementAPI\\TeacherManagementAPI.csproj|c:\\users\\trung\\desktop\\doantotnghiep\\teachermanagementapi\\teachermanagementapi\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83CD417A-0597-4F94-A69F-E121C7B32C7E}|TeacherManagementAPI\\TeacherManagementAPI.csproj|solutionrelative:teachermanagementapi\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83CD417A-0597-4F94-A69F-E121C7B32C7E}|TeacherManagementAPI\\TeacherManagementAPI.csproj|c:\\users\\trung\\desktop\\doantotnghiep\\teachermanagementapi\\teachermanagementapi\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83CD417A-0597-4F94-A69F-E121C7B32C7E}|TeacherManagementAPI\\TeacherManagementAPI.csproj|solutionrelative:teachermanagementapi\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83CD417A-0597-4F94-A69F-E121C7B32C7E}|TeacherManagementAPI\\TeacherManagementAPI.csproj|c:\\users\\trung\\desktop\\doantotnghiep\\teachermanagementapi\\teachermanagementapi\\migrations\\20250213102537_updatesubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83CD417A-0597-4F94-A69F-E121C7B32C7E}|TeacherManagementAPI\\TeacherManagementAPI.csproj|solutionrelative:teachermanagementapi\\migrations\\20250213102537_updatesubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83CD417A-0597-4F94-A69F-E121C7B32C7E}|TeacherManagementAPI\\TeacherManagementAPI.csproj|c:\\users\\trung\\desktop\\doantotnghiep\\teachermanagementapi\\teachermanagementapi\\dtos\\authdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83CD417A-0597-4F94-A69F-E121C7B32C7E}|TeacherManagementAPI\\TeacherManagementAPI.csproj|solutionrelative:teachermanagementapi\\dtos\\authdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83CD417A-0597-4F94-A69F-E121C7B32C7E}|TeacherManagementAPI\\TeacherManagementAPI.csproj|c:\\users\\trung\\desktop\\doantotnghiep\\teachermanagementapi\\teachermanagementapi\\middleware\\tokenblacklistmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83CD417A-0597-4F94-A69F-E121C7B32C7E}|TeacherManagementAPI\\TeacherManagementAPI.csproj|solutionrelative:teachermanagementapi\\middleware\\tokenblacklistmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83CD417A-0597-4F94-A69F-E121C7B32C7E}|TeacherManagementAPI\\TeacherManagementAPI.csproj|c:\\users\\trung\\desktop\\doantotnghiep\\teachermanagementapi\\teachermanagementapi\\models\\tokenblacklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83CD417A-0597-4F94-A69F-E121C7B32C7E}|TeacherManagementAPI\\TeacherManagementAPI.csproj|solutionrelative:teachermanagementapi\\models\\tokenblacklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83CD417A-0597-4F94-A69F-E121C7B32C7E}|TeacherManagementAPI\\TeacherManagementAPI.csproj|c:\\users\\trung\\desktop\\doantotnghiep\\teachermanagementapi\\teachermanagementapi\\controllers\\examcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83CD417A-0597-4F94-A69F-E121C7B32C7E}|TeacherManagementAPI\\TeacherManagementAPI.csproj|solutionrelative:teachermanagementapi\\controllers\\examcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83CD417A-0597-4F94-A69F-E121C7B32C7E}|TeacherManagementAPI\\TeacherManagementAPI.csproj|c:\\users\\trung\\desktop\\doantotnghiep\\teachermanagementapi\\teachermanagementapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83CD417A-0597-4F94-A69F-E121C7B32C7E}|TeacherManagementAPI\\TeacherManagementAPI.csproj|solutionrelative:teachermanagementapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83CD417A-0597-4F94-A69F-E121C7B32C7E}|TeacherManagementAPI\\TeacherManagementAPI.csproj|c:\\users\\trung\\desktop\\doantotnghiep\\teachermanagementapi\\teachermanagementapi\\teachermanagementapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{83CD417A-0597-4F94-A69F-E121C7B32C7E}|TeacherManagementAPI\\TeacherManagementAPI.csproj|solutionrelative:teachermanagementapi\\teachermanagementapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 247,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\Users\\trung\\Desktop\\Doantotnghiep\\TeacherManagementAPI\\TeacherManagementAPI\\models\\Class.cs",
+              "RelativeDocumentMoniker": "TeacherManagementAPI\\models\\Class.cs",
+              "ToolTip": "C:\\Users\\trung\\Desktop\\Doantotnghiep\\TeacherManagementAPI\\TeacherManagementAPI\\models\\Class.cs",
+              "RelativeToolTip": "TeacherManagementAPI\\models\\Class.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T07:27:53.22Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TeachersController.cs",
+              "DocumentMoniker": "C:\\Users\\trung\\Desktop\\Doantotnghiep\\TeacherManagementAPI\\TeacherManagementAPI\\Controllers\\TeachersController.cs",
+              "RelativeDocumentMoniker": "TeacherManagementAPI\\Controllers\\TeachersController.cs",
+              "ToolTip": "C:\\Users\\trung\\Desktop\\Doantotnghiep\\TeacherManagementAPI\\TeacherManagementAPI\\Controllers\\TeachersController.cs",
+              "RelativeToolTip": "TeacherManagementAPI\\Controllers\\TeachersController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAowFYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T10:35:17.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScheduleController.cs",
+              "DocumentMoniker": "C:\\Users\\trung\\Desktop\\Doantotnghiep\\TeacherManagementAPI\\TeacherManagementAPI\\Controllers\\ScheduleController.cs",
+              "RelativeDocumentMoniker": "TeacherManagementAPI\\Controllers\\ScheduleController.cs",
+              "ToolTip": "C:\\Users\\trung\\Desktop\\Doantotnghiep\\TeacherManagementAPI\\TeacherManagementAPI\\Controllers\\ScheduleController.cs",
+              "RelativeToolTip": "TeacherManagementAPI\\Controllers\\ScheduleController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA4wCQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T17:35:58.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext .cs",
+              "DocumentMoniker": "C:\\Users\\trung\\Desktop\\Doantotnghiep\\TeacherManagementAPI\\TeacherManagementAPI\\data\\ApplicationDbContext .cs",
+              "RelativeDocumentMoniker": "TeacherManagementAPI\\data\\ApplicationDbContext .cs",
+              "ToolTip": "C:\\Users\\trung\\Desktop\\Doantotnghiep\\TeacherManagementAPI\\TeacherManagementAPI\\data\\ApplicationDbContext .cs",
+              "RelativeToolTip": "TeacherManagementAPI\\data\\ApplicationDbContext .cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T11:25:57.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\trung\\Desktop\\Doantotnghiep\\TeacherManagementAPI\\TeacherManagementAPI\\models\\Subject.cs",
+              "RelativeDocumentMoniker": "TeacherManagementAPI\\models\\Subject.cs",
+              "ToolTip": "C:\\Users\\trung\\Desktop\\Doantotnghiep\\TeacherManagementAPI\\TeacherManagementAPI\\models\\Subject.cs",
+              "RelativeToolTip": "TeacherManagementAPI\\models\\Subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T07:26:45.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "scheduleData .cs",
+              "DocumentMoniker": "C:\\Users\\trung\\Desktop\\Doantotnghiep\\TeacherManagementAPI\\TeacherManagementAPI\\models\\scheduleData .cs",
+              "RelativeDocumentMoniker": "TeacherManagementAPI\\models\\scheduleData .cs",
+              "ToolTip": "C:\\Users\\trung\\Desktop\\Doantotnghiep\\TeacherManagementAPI\\TeacherManagementAPI\\models\\scheduleData .cs",
+              "RelativeToolTip": "TeacherManagementAPI\\models\\scheduleData .cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T18:45:11.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\trung\\Desktop\\Doantotnghiep\\TeacherManagementAPI\\TeacherManagementAPI\\Program.cs",
+              "RelativeDocumentMoniker": "TeacherManagementAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\trung\\Desktop\\Doantotnghiep\\TeacherManagementAPI\\TeacherManagementAPI\\Program.cs",
+              "RelativeToolTip": "TeacherManagementAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T11:33:52.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NewsController.cs",
+              "DocumentMoniker": "C:\\Users\\trung\\Desktop\\Doantotnghiep\\TeacherManagementAPI\\TeacherManagementAPI\\Controllers\\NewsController.cs",
+              "RelativeDocumentMoniker": "TeacherManagementAPI\\Controllers\\NewsController.cs",
+              "ToolTip": "C:\\Users\\trung\\Desktop\\Doantotnghiep\\TeacherManagementAPI\\TeacherManagementAPI\\Controllers\\NewsController.cs",
+              "RelativeToolTip": "TeacherManagementAPI\\Controllers\\NewsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T11:27:24.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\trung\\Desktop\\Doantotnghiep\\TeacherManagementAPI\\TeacherManagementAPI\\models\\Teacher.cs",
+              "RelativeDocumentMoniker": "TeacherManagementAPI\\models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\trung\\Desktop\\Doantotnghiep\\TeacherManagementAPI\\TeacherManagementAPI\\models\\Teacher.cs",
+              "RelativeToolTip": "TeacherManagementAPI\\models\\Teacher.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T07:25:27.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\trung\\Desktop\\Doantotnghiep\\TeacherManagementAPI\\TeacherManagementAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "TeacherManagementAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\trung\\Desktop\\Doantotnghiep\\TeacherManagementAPI\\TeacherManagementAPI\\appsettings.json",
+              "RelativeToolTip": "TeacherManagementAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-08T19:04:34.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TeachingAssignmentController.cs",
+              "DocumentMoniker": "C:\\Users\\trung\\Desktop\\Doantotnghiep\\TeacherManagementAPI\\TeacherManagementAPI\\Controllers\\TeachingAssignmentController.cs",
+              "RelativeDocumentMoniker": "TeacherManagementAPI\\Controllers\\TeachingAssignmentController.cs",
+              "ToolTip": "C:\\Users\\trung\\Desktop\\Doantotnghiep\\TeacherManagementAPI\\TeacherManagementAPI\\Controllers\\TeachingAssignmentController.cs",
+              "RelativeToolTip": "TeacherManagementAPI\\Controllers\\TeachingAssignmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T14:30:19.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\trung\\Desktop\\Doantotnghiep\\TeacherManagementAPI\\TeacherManagementAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "TeacherManagementAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\trung\\Desktop\\Doantotnghiep\\TeacherManagementAPI\\TeacherManagementAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "TeacherManagementAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAAB4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T07:08:23.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "C:\\Users\\trung\\Desktop\\Doantotnghiep\\TeacherManagementAPI\\TeacherManagementAPI\\models\\Exam.cs",
+              "RelativeDocumentMoniker": "TeacherManagementAPI\\models\\Exam.cs",
+              "ToolTip": "C:\\Users\\trung\\Desktop\\Doantotnghiep\\TeacherManagementAPI\\TeacherManagementAPI\\models\\Exam.cs",
+              "RelativeToolTip": "TeacherManagementAPI\\models\\Exam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T11:26:19.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\trung\\Desktop\\Doantotnghiep\\TeacherManagementAPI\\TeacherManagementAPI\\models\\Category.cs",
+              "RelativeDocumentMoniker": "TeacherManagementAPI\\models\\Category.cs",
+              "ToolTip": "C:\\Users\\trung\\Desktop\\Doantotnghiep\\TeacherManagementAPI\\TeacherManagementAPI\\models\\Category.cs",
+              "RelativeToolTip": "TeacherManagementAPI\\models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T14:56:14.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\trung\\Desktop\\Doantotnghiep\\TeacherManagementAPI\\TeacherManagementAPI\\models\\User.cs",
+              "RelativeDocumentMoniker": "TeacherManagementAPI\\models\\User.cs",
+              "ToolTip": "C:\\Users\\trung\\Desktop\\Doantotnghiep\\TeacherManagementAPI\\TeacherManagementAPI\\models\\User.cs",
+              "RelativeToolTip": "TeacherManagementAPI\\models\\User.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T19:04:09.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\trung\\Desktop\\Doantotnghiep\\TeacherManagementAPI\\TeacherManagementAPI\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "TeacherManagementAPI\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\trung\\Desktop\\Doantotnghiep\\TeacherManagementAPI\\TeacherManagementAPI\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "TeacherManagementAPI\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T07:07:47.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\trung\\Desktop\\Doantotnghiep\\TeacherManagementAPI\\TeacherManagementAPI\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "TeacherManagementAPI\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\trung\\Desktop\\Doantotnghiep\\TeacherManagementAPI\\TeacherManagementAPI\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "TeacherManagementAPI\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T10:44:37.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250213102537_updateSubject.cs",
+              "DocumentMoniker": "C:\\Users\\trung\\Desktop\\Doantotnghiep\\TeacherManagementAPI\\TeacherManagementAPI\\Migrations\\20250213102537_updateSubject.cs",
+              "RelativeDocumentMoniker": "TeacherManagementAPI\\Migrations\\20250213102537_updateSubject.cs",
+              "ToolTip": "C:\\Users\\trung\\Desktop\\Doantotnghiep\\TeacherManagementAPI\\TeacherManagementAPI\\Migrations\\20250213102537_updateSubject.cs",
+              "RelativeToolTip": "TeacherManagementAPI\\Migrations\\20250213102537_updateSubject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T10:44:34.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AuthDtos.cs",
+              "DocumentMoniker": "C:\\Users\\trung\\Desktop\\Doantotnghiep\\TeacherManagementAPI\\TeacherManagementAPI\\Dtos\\AuthDtos.cs",
+              "RelativeDocumentMoniker": "TeacherManagementAPI\\Dtos\\AuthDtos.cs",
+              "ToolTip": "C:\\Users\\trung\\Desktop\\Doantotnghiep\\TeacherManagementAPI\\TeacherManagementAPI\\Dtos\\AuthDtos.cs",
+              "RelativeToolTip": "TeacherManagementAPI\\Dtos\\AuthDtos.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T07:27:42.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TokenBlacklistMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\trung\\Desktop\\Doantotnghiep\\TeacherManagementAPI\\TeacherManagementAPI\\Middleware\\TokenBlacklistMiddleware.cs",
+              "RelativeDocumentMoniker": "TeacherManagementAPI\\Middleware\\TokenBlacklistMiddleware.cs",
+              "ToolTip": "C:\\Users\\trung\\Desktop\\Doantotnghiep\\TeacherManagementAPI\\TeacherManagementAPI\\Middleware\\TokenBlacklistMiddleware.cs",
+              "RelativeToolTip": "TeacherManagementAPI\\Middleware\\TokenBlacklistMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T10:43:04.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TokenBlacklist.cs",
+              "DocumentMoniker": "C:\\Users\\trung\\Desktop\\Doantotnghiep\\TeacherManagementAPI\\TeacherManagementAPI\\models\\TokenBlacklist.cs",
+              "RelativeDocumentMoniker": "TeacherManagementAPI\\models\\TokenBlacklist.cs",
+              "ToolTip": "C:\\Users\\trung\\Desktop\\Doantotnghiep\\TeacherManagementAPI\\TeacherManagementAPI\\models\\TokenBlacklist.cs",
+              "RelativeToolTip": "TeacherManagementAPI\\models\\TokenBlacklist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T10:33:07.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ExamController.cs",
+              "DocumentMoniker": "C:\\Users\\trung\\Desktop\\Doantotnghiep\\TeacherManagementAPI\\TeacherManagementAPI\\Controllers\\ExamController.cs",
+              "RelativeDocumentMoniker": "TeacherManagementAPI\\Controllers\\ExamController.cs",
+              "ToolTip": "C:\\Users\\trung\\Desktop\\Doantotnghiep\\TeacherManagementAPI\\TeacherManagementAPI\\Controllers\\ExamController.cs",
+              "RelativeToolTip": "TeacherManagementAPI\\Controllers\\ExamController.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAuwKIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T11:26:07.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\trung\\Desktop\\Doantotnghiep\\TeacherManagementAPI\\TeacherManagementAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "TeacherManagementAPI\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\trung\\Desktop\\Doantotnghiep\\TeacherManagementAPI\\TeacherManagementAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "TeacherManagementAPI\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T19:04:48.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TeacherManagementAPI.http",
+              "DocumentMoniker": "C:\\Users\\trung\\Desktop\\Doantotnghiep\\TeacherManagementAPI\\TeacherManagementAPI\\TeacherManagementAPI.http",
+              "RelativeDocumentMoniker": "TeacherManagementAPI\\TeacherManagementAPI.http",
+              "ToolTip": "C:\\Users\\trung\\Desktop\\Doantotnghiep\\TeacherManagementAPI\\TeacherManagementAPI\\TeacherManagementAPI.http",
+              "RelativeToolTip": "TeacherManagementAPI\\TeacherManagementAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-02-08T19:04:42.566Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 153,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

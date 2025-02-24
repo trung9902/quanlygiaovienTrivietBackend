@@ -1,0 +1,24 @@
+wwwroot\documents\0005b013-ab32-40e5-91cc-95b0228e29c3.docx
+wwwroot\documents\0dbc59c3-00af-4574-b636-fe9ee6d4e793.docx
+wwwroot\documents\16_Lê Huy Tùng.docx
+wwwroot\documents\30c8988c-c9bf-4e0b-9ff8-6aab4377b23d.pdf
+wwwroot\documents\9 - Lê Hoài Nam.docx
+wwwroot\documents\báo-cáo.docx
+wwwroot\documents\Chức năng của Hệ Thống Quản Lý Hoạt Động Và Điều Hành Giáo Viên.docx
+wwwroot\documents\Chương 2 HVTC (1).docx
+wwwroot\documents\CV ĐỖ MINH NGỌC - thùy linh-TopCV.vn (1).pdf
+wwwroot\documents\document (7).docx
+wwwroot\documents\Nguyen-Thanh-Trung- FrontEnd (1).pdf
+wwwroot\documents\Nguyen-Thanh-Trung- FrontEnd.pdf
+wwwroot\documents\thuy linh ne.docx
+wwwroot\images\123.jpg
+wwwroot\images\8985f9bc-69fe-41b3-8e65-be91cbd752b9.jpg
+wwwroot\images\c050c9a8-5a9f-402a-8a40-44c0c38aa350.png
+wwwroot\images\Chương 2 HVTC (1).docx
+wwwroot\images\current-image.jpg
+wwwroot\images\da27d0d9-38b3-4f97-a8ae-850b69e79ef9.jpg
+wwwroot\images\de7e5c81-b4c7-42b7-9eec-5405342c7ade.jpg
+wwwroot\images\empty.jpg
+wwwroot\images\icon-folder-removebg-preview.png
+wwwroot\images\—Pngtree—vector folder icon_3997349.png
+wwwroot\images\z6064825211597_0f8374220d19e305c853d2ded58b6c9c.jpg
