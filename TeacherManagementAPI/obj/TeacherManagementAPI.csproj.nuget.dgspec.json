@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\trung\\Desktop\\Doantotnghiep\\TeacherManagementAPI\\TeacherManagementAPI\\TeacherManagementAPI.csproj": {}
+    "C:\\Users\\trung\\Desktop\\do an\\quanlygiaovienTrivietBackend\\TeacherManagementAPI\\TeacherManagementAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\trung\\Desktop\\Doantotnghiep\\TeacherManagementAPI\\TeacherManagementAPI\\TeacherManagementAPI.csproj": {
+    "C:\\Users\\trung\\Desktop\\do an\\quanlygiaovienTrivietBackend\\TeacherManagementAPI\\TeacherManagementAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\trung\\Desktop\\Doantotnghiep\\TeacherManagementAPI\\TeacherManagementAPI\\TeacherManagementAPI.csproj",
+        "projectUniqueName": "C:\\Users\\trung\\Desktop\\do an\\quanlygiaovienTrivietBackend\\TeacherManagementAPI\\TeacherManagementAPI.csproj",
         "projectName": "TeacherManagementAPI",
-        "projectPath": "C:\\Users\\trung\\Desktop\\Doantotnghiep\\TeacherManagementAPI\\TeacherManagementAPI\\TeacherManagementAPI.csproj",
+        "projectPath": "C:\\Users\\trung\\Desktop\\do an\\quanlygiaovienTrivietBackend\\TeacherManagementAPI\\TeacherManagementAPI.csproj",
         "packagesPath": "C:\\Users\\trung\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\trung\\Desktop\\Doantotnghiep\\TeacherManagementAPI\\TeacherManagementAPI\\obj\\",
+        "outputPath": "C:\\Users\\trung\\Desktop\\do an\\quanlygiaovienTrivietBackend\\TeacherManagementAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
